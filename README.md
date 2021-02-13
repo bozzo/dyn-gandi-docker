@@ -1,5 +1,9 @@
 # dyn-gandi-docker
 
+![Docker](https://github.com/bozzo/dyn-gandi-docker/workflows/Docker/badge.svg)
+
+Docker image for dyn-gandi (https://github.com/Danamir/dyn-gandi)
+
 ## Docker
 
 Edit the config file with your API-KEY and your DNS domain and run the following command:
